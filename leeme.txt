@@ -1,6 +1,6 @@
 Cafetería/Bar
 
-Deseamos realizar una aplicación que facilite la gestión de pedidos de un bar o cafetería. 
+Deseamos realizar una aplicación que facilite la gestión de pedidos y reservas de un bar o cafetería. 
 Nuestra aplicación estará compuesta por una aplicación de escritorio a la que tendrá acceso el usuario trabajador,
 y otra aplicación móvil para los clientes desde la que podrán consultar la carta, 
 podrán solicitar la reserva de mesas o realizar pedidos para llevar.
